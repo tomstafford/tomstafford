@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+https://github.com/tomstafford/imdb - analysis of changes in IMDB ratings over time
+
+[/faithinreason](https://github.com/tomstafford/faithinreason) - survey data on perceptions of human rationality
+
 <!--
 **tomstafford/tomstafford** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
