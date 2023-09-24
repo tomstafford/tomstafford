@@ -1,10 +1,19 @@
-### Hi there 👋
+### Recent projects / in progress 👋
 
-https://github.com/tomstafford/imdb - analysis of changes in IMDB ratings over time
+[/imdb](https://github.com/tomstafford/imdb) - analysis of changes in IMDB ratings over time
 
 [/faithinreason](https://github.com/tomstafford/faithinreason) - survey data on perceptions of human rationality
 
+[/editors](https://github.com/tomstafford/editors) -  Using Open Editors data to explore journal editorship in UK Universities
+
+[/rmarkdown_apa](https://github.com/tomstafford/rmarkdown_apa) - A minimal example of APA manuscript preparation, integrating text & analysis code, using Rmarkdown and papaja
+
+[/train_data](https://github.com/tomstafford/train_data) - A data science challenge 
+
+
+
 <!--
+
 **tomstafford/tomstafford** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
