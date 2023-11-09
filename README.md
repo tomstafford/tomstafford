@@ -10,7 +10,7 @@
 
 [/train_data](https://github.com/tomstafford/train_data) - A data science challenge 
 
-
+[/psy-checklist](https://tomstafford.github.io/psy-checklist/) - An experimental design checklist
 
 <!--
 
